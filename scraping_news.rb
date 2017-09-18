@@ -23,4 +23,6 @@ get '/scraping_news' do
     html << "<p><a href = #{node.attr('href')}>#{node.text}</a></p>"
   end
 
+  return html
+
 end
