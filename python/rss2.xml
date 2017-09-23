@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2017</copyright>
+ <lastBuildDate>Sat, 23 Sep 2017 17:52:00 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2017年9月22日　沖島のくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/22</link>
+  <description>琵琶湖に浮かぶ沖島にいたくろこです。</description>
+  <pubDate>Fri, 22 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/22</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年9月22日　Java 9が正式リリース，「Project Jigsaw」をようやく実装 ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201709/22</link>
+  <description>Oracleは9月21日（米国時間），&quot;Java 9&quot;ことJava SE 9の一般提供（GA）を開始した。</description>
+  <pubDate>Fri, 22 Sep 2017 12:12:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201709/22</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2017年9月22日号　時間課金のUbuntu Advantage Essential ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201709/22</link>
+  <description>クラウド上でのUbuntuの利用に，強力な補助が加わります。Canonicalが提供するUbuntuの有償サポートプラン，Ubuntu AdvantageをAWS Marketplace経由で購入できるようになりました。</description>
+  <pubDate>Fri, 22 Sep 2017 10:19:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201709/22</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>第116回　blacklistd(8)を使ってftpd DoS攻撃を防止する方法 ipfw編 ── BSD界隈四方山話</title>
+  <link>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0116</link>
+  <description>今回はftpd(8)に対して，blacklistd(8)を利用する方法を紹介します。組み合わせるファイアウォールにはFreeBSDネイティブのipfw(4)を使います。</description>
+  <pubDate>Fri, 22 Sep 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/bsd-yomoyama">BSD界隈四方山話</category>
+  <guid>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0116</guid> 
+  <author>後藤大地</author>
+ </item>
+ <item>
+  <title>今を知りたい！ ビッグデータの基礎知識 ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2017/0080</link>
+  <description>データを用いたシステム開発が増えてきています。最近であれば人工知能技術の盛り上がりなどもあり，慣れないデータ処理に苦心している人も多いのではないでしょうか。</description>
+  <pubDate>Fri, 22 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2017/0080</guid> 
+  <author>西田圭介</author>
+ </item>
+ <item>
+  <title>2017年9月21日　お蕎麦屋さんのくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/21</link>
+  <description>ねこにとっても出汁の香りはたまらんのでしょうか？</description>
+  <pubDate>Thu, 21 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/21</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年9月第3週　次期「Pixel」は10月4日に発表ほか ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201709/21</link>
+  <description>2017年9月第3週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 21 Sep 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201709/21</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>エンジニアに愛され続ける定番エディタ ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2017/0079</link>
+  <description>Emacsというエディタが誕生したのは1975年です。</description>
+  <pubDate>Thu, 21 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2017/0079</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>「Python Boot Camp in 長野八ヶ岳 」10/28に開催 ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2017/09/2001</link>
+  <description>Python Boot Campは，一般社団法人PyCon JPが主催するPythonを学べるチュートリアル講座。</description>
+  <pubDate>Thu, 21 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2017/09/2001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2017年9月20日　石垣のそばのくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/20</link>
+  <description>石垣といってもあの島ではありません。</description>
+  <pubDate>Wed, 20 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/20</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>データセンター向け水冷サーバ「Triton」に見るDellのアプローチ ── インタビュー</title>
+  <link>http://gihyo.jp/news/interview/2017/09/2001</link>
+  <description>Dellが開発する水冷サーバ「Triton」。今，改めて自社サーバによるシステム開発・構築・運用に注目が集まる中，Tritonの存在がどのように扱われていくのか――2017年の春に，Dell EMCでTritonの開発を進めるAustion Shelnutt氏に話を伺ったのでその模様をお届けします。</description>
+  <pubDate>Wed, 20 Sep 2017 10:51:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/interview">インタビュー</category>
+  <guid>http://gihyo.jp/news/interview/2017/09/2001</guid> 
+  <author>安田豊</author>
+ </item>
+ <item>
+  <title>第489回　ARM向けバックポートリポジトリをaptlyで作る ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0489</link>
+  <description>第485回で紹介したaptlyを使えば，簡単に自分専用のリポジトリを構築できます。さらに第487回の方法で任意のアーキテクチャーのパッケージを作ることができます。今回は応用編ということで，ARM用のバイナリパッケージを提供するバックポートリポジトリを作ってみましょう。</description>
+  <pubDate>Wed, 20 Sep 2017 10:09:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0489</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>改訂にあたって［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する ── ［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する</title>
+  <link>http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2/0003</link>
+  <description>2012年にEmacs実践入門が出版されてから早5年，Emacsは誕生から40年を迎え，バージョンも25.2になりました。</description>
+  <pubDate>Wed, 20 Sep 2017 09:31:40 +0900</pubDate>
+  <category domain="http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2">［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する</category>
+  <guid>http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2/0003</guid> 
+  <author>大竹智也</author>
+ </item>
+ <item>
+  <title>はじめに［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する ── ［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する</title>
+  <link>http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2/0002</link>
+  <description>Wikipediaに次のように書かれています。</description>
+  <pubDate>Wed, 20 Sep 2017 09:31:20 +0900</pubDate>
+  <category domain="http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2">［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する</category>
+  <guid>http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2/0002</guid> 
+  <author>大竹智也</author>
+ </item>
+ <item>
+  <title>本書に寄せて［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する ── ［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する</title>
+  <link>http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2/0001</link>
+  <description>私はEmacs使いです。最初にEmacsに接したのは，私がまだ大学生だったころの1988年のことです。</description>
+  <pubDate>Wed, 20 Sep 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2">［改訂新版］Emacs実践入門──思考を直感的にコード化し、開発を加速する</category>
+  <guid>http://gihyo.jp/magazine/wdpress/plus/978-4-7741-9235-2/0001</guid> 
+  <author>まつもとゆきひろ</author>
+ </item>
+ <item>
+  <title>ポイントをおさえて「意図が伝わる」企画書・提案書を作る！ ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2017/0078</link>
+  <description>仕事で何かと作る機会がある書類と言えば，企画書や提案書。</description>
+  <pubDate>Wed, 20 Sep 2017 09:30:30 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2017/0078</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>マスターへの近道は，習うより慣れろ！ ── 新刊ピックアップ</title>
+  <link>http://gihyo.jp/book/pickup/2017/0077</link>
+  <description>建築や機械など幅広く使える汎用の2DCAD，AutoCAD LTは，毎年バージョンアップされ，さまざまな機能が追加・強化されています。</description>
+  <pubDate>Wed, 20 Sep 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>http://gihyo.jp/book/pickup/2017/0077</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2017年9月19日　よそもんのくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/19</link>
+  <description>たまによそからやってくるくろこです。</description>
+  <pubDate>Tue, 19 Sep 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201709/19</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第117回　5年目のバグ ── きたみりゅうじの聞かせて珍プレー</title>
+  <link>http://gihyo.jp/dev/serial/01/funny-play/0117</link>
+  <description>5年前にカットオーバーし安定稼働している基幹システム。ある日，顧客から問い合わせがありました。</description>
+  <pubDate>Tue, 19 Sep 2017 09:33:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/funny-play">きたみりゅうじの聞かせて珍プレー</category>
+  <guid>http://gihyo.jp/dev/serial/01/funny-play/0117</guid> 
+  <author>きたみりゅうじ</author>
+ </item>
+ <item>
+  <title>第30回　SD読者ならわかるブロックチェーン入門 ── 書いて覚えるSwift入門</title>
+  <link>http://gihyo.jp/dev/serial/01/swift-introduction/0030</link>
+  <description>前回の記事ではSwiftのSequenceプロトコルを取り上げたうえで，今回はそのSequenceの中でもランダムアクセス可能なCollectionを取り上げる予定でしたが，もう1回ある特殊なSequenceを取り上げることにします。</description>
+  <pubDate>Tue, 19 Sep 2017 09:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/swift-introduction">書いて覚えるSwift入門</category>
+  <guid>http://gihyo.jp/dev/serial/01/swift-introduction/0030</guid> 
+  <author>小飼弾</author>
+ </item>
+</channel>
+</rss>
